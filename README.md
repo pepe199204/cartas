@@ -2,6 +2,8 @@
 
 Primera entrega de la materia Técnicas de programación y laboratorio
 
+![Screen Shot 2024-09-05 at 9 20 44 AM](https://github.com/user-attachments/assets/7cc31faf-5564-4f63-8261-760e293d7120)
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
